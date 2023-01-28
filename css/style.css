@@ -1,0 +1,12 @@
+body{
+    background:rgb(95, 67, 67);
+}
+.cardsPlayList{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.card{
+    margin-bottom: 15px;
+}

@@ -1,0 +1,87 @@
+{
+    "playList":[
+        {
+            "id" : 1,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674817220/Cartelera/Pride_mqyasd.jpg",
+            "song" : "Pride",
+            "genres" : "Soul, Hip-hop/rap",
+            "artist" : "Kendrick Lamar"
+        },
+        {
+            "id" : 2,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674817219/Cartelera/Livin_fkan1h.jpg",
+            "song" : "Livin' Proof",
+            "genres" : "Hip Hop",
+            "artist" : "Group Home"
+            
+    
+        },
+        {
+            "id" : 3,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674644906/Cartelera/zezfd7lgcl4dii2rewx1.jpg",
+            "song" : "Hits from the Bong",
+            "genres" : "Hip-hop",
+            "artist" : "Cypress Hill"
+        },
+        {
+            "id" : 4,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674645396/Cartelera/LmpwZWc_tk1d0k.jpg",
+            "song" : "Keep It On",
+            "genres" : "Hip-hop",
+            "artist" : "The Nonce"
+        },
+        {
+            "id" : 5,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674817220/Cartelera/smoke_cypwkw.jpg",
+            "song" : "Smoke Some Weed",
+            "genres" : "Pop, Hip-hop/rap",
+            "artist" : "Ice Cube"
+        },
+        
+        {
+            "id" : 6,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674818991/Cartelera/formula_isebm3.jpg",
+            "song" : "Tha Formula",
+            "genres" : "Hip-hop",
+            "artist" : "Moble Noble Feat. Wesside"
+        },
+        {
+            "id" : 7,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674823788/Cartelera/drake_nhgkua.jpg",
+            "song" : "Rich Flex",
+            "genres" : "Hip-hop",
+            "artist" : " Drake, 21 Savage"
+        },
+        {
+            "id" : 8,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674824249/Cartelera/reason_tzg14v.jpg",
+            "song" : "Show Stop",
+            "genres" : "Hip-hop",
+            "artist" : "The Reason"
+        },
+        {
+            "id" : 9,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674824634/Cartelera/full_dvkgsr.jpg",
+            "song" : "Keep It On",
+            "genres" : "Hip-hop",
+            "artist" : "The Nonce"
+        },
+        {
+            "id" : 10,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674824892/Cartelera/mobb_po9eot.jpg",
+            "song" : "Keep It On",
+            "genres" : "Hip-hop",
+            "artist" : "The Nonce"
+        },
+        {
+            "id" : 11,
+            "cover" : "https://res.cloudinary.com/dog5ljnve/image/upload/v1674825468/Cartelera/mexi_elopbu.jpg",
+            "song" : "Keep It On",
+            "genres" : "Hip-hop",
+            "artist" : "The Nonce"
+        }
+    
+    ]
+    
+    
+    }
