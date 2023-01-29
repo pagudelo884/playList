@@ -1,6 +1,5 @@
 const requestURL = `../json/playList.json`;
 
-
     async function fetchPlayListJson(){
         const response = await fetch(requestURL);
         const playLists = await response.json();  
@@ -25,9 +24,9 @@ const requestURL = `../json/playList.json`;
         <div class="card" style="width: 18rem;">
             <img src="${cover}" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h3 class="card-title">${id}.${artist}</h3>
-                    <h5 class="card-title">Genres: ${genres}</h5>
-                    <h5 class="card-title">song: ${song}</h5>
+                    <h3 class="card-title text-light">${id}.${artist}</h3>
+                    <h5 class="card-title text-light">Genres: ${genres}</h5>
+                    <h5 class="card-title text-light">song: ${song}</h5>
                 </div>
         </div>`
     };

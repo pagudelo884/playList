@@ -1,5 +1,5 @@
 body{
-    background:rgb(95, 67, 67);
+    background-color: #121212;
 }
 .cardsPlayList{
     display: flex;
@@ -9,4 +9,6 @@ body{
 }
 .card{
     margin-bottom: 15px;
+    background-color: #292929;
+    border-color: black;
 }
