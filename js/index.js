@@ -24,9 +24,9 @@ const requestURL = `../json/playList.json`;
         <div class="card" style="width: 18rem;">
             <img src="${cover}" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h3 class="card-title text-light">${id}.${artist}</h3>
+                    <h3 class="card-title text-light">${id}. ${artist}</h3>
                     <h5 class="card-title text-light">Genres: ${genres}</h5>
-                    <h5 class="card-title text-light">song: ${song}</h5>
+                    <h5 class="card-title text-light">Song: ${song}</h5>
                 </div>
         </div>`
     };

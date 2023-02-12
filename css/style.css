@@ -1,5 +1,23 @@
-body{
-    background-color: #121212;
+header{
+    display: flex;
+    height: 70px;
+    align-items: center;
+    padding: 3em;
+
+}
+
+.log{
+    display: flex;
+    align-items: center;
+}
+
+.log img{
+    height: 50px;
+    margin-right   : 10px;
+}
+
+body {
+    background-color: black;
 }
 .cardsPlayList{
     display: flex;
@@ -10,5 +28,18 @@ body{
 .card{
     margin-bottom: 15px;
     background-color: #292929;
-    border-color: black;
+    border-color: white;
 }
+
+#title{
+    text-align: right;
+    padding: 3em;
+}
+
+
+
+
+
+
+
+
